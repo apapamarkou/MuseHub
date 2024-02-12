@@ -1,3 +1,5 @@
+This project is deprecated as Musescore changed the app **Musehub** to a newer app called **Muse Sounds Manager**.
+
 Package: muse-hub
 Priority: optional
 Section: utils
